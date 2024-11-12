@@ -7,7 +7,7 @@
 ### 💻 About Me
 - 🌱 I’m learning **AWS**
 - 📫 How to reach me: samian@mun.ca
-- 💤 Fun fact: If coding were as easy as sleeping, I'd be the world's top developer!"
+- 💤 Fun fact: If coding were as easy as sleeping, I'd be the world's top developer!
 
 ---
 
