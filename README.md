@@ -5,11 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/samia-nusrat?label=Follow&style=social)](https://github.com/samia-nusrat)
 
 ### 💻 About Me
-- 🔭 I’m currently working on **[Your Current Project/Field of Work]**
-- 🌱 I’m learning **[List Technologies or Languages]**
-- 💬 Ask me about **[Topics You're Proficient In]**
-- 📫 How to reach me: [Your Contact Info or Email]
-- ⚡ Fun fact: **[Interesting Fact or Hobby]**
+- 🌱 I’m learning **AWS**
+- 📫 How to reach me: samian@mun.ca
+- ⚡ Fun fact: **Sleeping**
 
 ---
 
@@ -49,23 +47,6 @@ Celebrate my GitHub achievements!
 
 ---
 
-### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) <!-- add your LinkedIn link -->
-- [Twitter](https://twitter.com/your-twitter) <!-- add your Twitter link -->
-- [Portfolio](https://yourportfolio.com) <!-- add your personal site link if you have one -->
-
----
-
-### 🎶 What I'm Listening To
-![Spotify](https://novatorem-username.vercel.app/api/spotify) <!-- Replace 'username' with your own Vercel username if using Spotify Now Playing widget -->
-
----
-
-### 📅 My Coding Activity
-Track my recent coding time and language activity with WakaTime:
-
-<!-- Wakatime weekly coding stats -->
-[![Samia's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=samia-nusrat)](https://wakatime.com/@samia-nusrat)
 
 ---
 
@@ -77,9 +58,3 @@ Here are a few selected projects I’m most proud of:
 <!-- Replace 'your-repo' and 'your-other-repo' with actual repo names -->
 
 ---
-
-### 🌱 Goals for 2024
-- [ ] Complete a new project in [New Technology]
-- [ ] Contribute to open-source projects regularly
-- [ ] Expand my skill set in [Area of Interest]
-- [ ] Build a personal website or portfolio
