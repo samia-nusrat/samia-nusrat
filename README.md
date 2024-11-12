@@ -48,13 +48,3 @@ Celebrate my GitHub achievements!
 ---
 
 
----
-
-### 👇 Check Out My Pinned Repositories
-Here are a few selected projects I’m most proud of:
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samia-nusrat&repo=your-repo&theme=radical)](https://github.com/samia-nusrat/your-repo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samia-nusrat&repo=your-other-repo&theme=radical)](https://github.com/samia-nusrat/your-other-repo)
-<!-- Replace 'your-repo' and 'your-other-repo' with actual repo names -->
-
----
