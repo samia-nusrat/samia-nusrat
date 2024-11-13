@@ -48,12 +48,4 @@ Celebrate my GitHub achievements!
 
 ---
 
-# My Weekly Coding Time 🕒
-
-Here’s how much time I’ve spent coding this week:
-
-![WakaTime Weekly Stats](https://wakatime.com/badge/user/samia-nusrat/weekly.svg)
-
-Check out my detailed coding stats on [WakaTime](https://wakatime.com/@samia-nusrat).
-
 
