@@ -1,12 +1,4 @@
-![Moving Dashes](https://media.giphy.com/media/3o7btXbZlN04knhsx6/giphy.gif)
----  **⭐**  ---  **💻**  ---  **📚**  ---
---- *** --- *** --- *** --- 
 
----
-**⭐** **💻** **📚**
---- *** ---
-**💻** **⭐** **📚**
---- **⭐** ---
 
 # Hi there, I'm Samia Nusrat! 👋
 
