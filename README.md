@@ -50,3 +50,11 @@ Celebrate my GitHub achievements!
 
 ![Moving Dashes](https://media.giphy.com/media/3o7btXbZlN04knhsx6/giphy.gif)
 
+# My Weekly Coding Time 🕒
+
+Here’s how much time I’ve spent coding this week:
+
+![WakaTime Weekly Stats](https://wakatime.com/badge/user/samia-nusrat/weekly.svg)
+
+Check out my detailed coding stats on [WakaTime](https://wakatime.com/@samia-nusrat).
+
